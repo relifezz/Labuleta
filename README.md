@@ -1,2 +1,2 @@
 # Labuleta
-Labuleta Game Manager
+Labuleta Game Scripts
